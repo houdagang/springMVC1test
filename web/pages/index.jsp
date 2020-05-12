@@ -4,6 +4,8 @@
     <title></title>
   </head>
   <body>
-  ${message}
+    <h1>${message}</h1>
+
+    <p>${date}</p>
   </body>
 </html>
